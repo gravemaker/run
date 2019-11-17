@@ -1,5 +1,4 @@
-   2019-10-06 12:25:04
+   2019-11-17 12:20:04
    BCJUR: 😁 - OK
    NORMATIVOS: 😁 - OK
-   RDR: 😁 - OK
- 
+   RDR: 😭 - NOT OK
