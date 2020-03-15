@@ -1,5 +1,4 @@
-   2020-03-15 11:15:04
+   2020-03-15 11:55:04
    BCJUR: 😭 - NOT OK
    NORMATIVOS: 😁 - OK
-   RDR: 😭 - NOT OK
-NORMATIVOS 
+   RDR: 😁 - OK
