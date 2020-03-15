@@ -2,3 +2,4 @@
    BCJUR: 😭 - NOT OK
    NORMATIVOS: 😁 - OK
    RDR: 😭 - NOT OK
+NORMATIVOS 
